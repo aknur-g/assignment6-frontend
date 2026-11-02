@@ -2,7 +2,6 @@
 
 **Name:** Aknur  
 **Group:** IT - 2501  
-**University:** Astana IT University
 
 ## About My Project
 
